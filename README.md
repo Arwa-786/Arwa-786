@@ -5,7 +5,7 @@
 </div> 
 <div>
   <p>
-    < img src="https://tenor.com/view/tutaloino27-gif-7519242631663610823.gif" />
+    <img src="https://tenor.com/view/tutaloino27-gif-7519242631663610823.gif" />
   </p>
 </div>
 <div>
