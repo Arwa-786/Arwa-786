@@ -9,10 +9,9 @@
   </p>
 </div>
 <div>
-  <h2>(\\ /)</h2>
-  <h2>( . .)</h2>
-  <h2>C(")(")About Me</h2>
-  <p>
-   
-  </p>
+  <h2 align="center">
+  (\\ /)<br>
+  ( . .)<br>
+  C(")(")About Me
+</h2>
 </div>
