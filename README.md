@@ -5,6 +5,12 @@
 </div> 
 <div>
   <p>
-    <img src="https://tenor.com/view/tutaloino27-gif-7519242631663610823.gif" />
+    < align="center" img src="https://tenor.com/view/tutaloino27-gif-7519242631663610823.gif" />
+  </p>
+</div>
+<div>
+  <h2>About Me</h2>
+  <p>
+    I'm a
   </p>
 </div>
