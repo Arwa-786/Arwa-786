@@ -10,8 +10,8 @@
 </div>
 <div>
   <h2 align="center">
-  (\\ /)<br>
-  ( . .)<br>
+  (\\ /)         <br>
+  ( . .)         <br>
   C(")(")About Me
 </h2>
 </div>
