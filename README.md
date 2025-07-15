@@ -10,8 +10,8 @@
 </div>
 <div>
   <h2 align="center">
-  (\\ /)         <br>
-  ( . .)         <br>
-  C(")(")About Me
+  (\\ /) ~🥕☀️🐰~<br>
+  ( . .)About Me<br>
+  C(")(")~🥕☀️🐰~
 </h2>
 </div>
