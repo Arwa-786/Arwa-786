@@ -9,9 +9,8 @@
   </p>
 </div>
 <div>
-  <h2 align="center">
-  (\\ /) ~🥕☀️🐰~<br>
-  ( . .)About Me<br>
-  C(")(")~🥕☀️🐰~
-</h2>
+  <h2 align="center">🚀 About Me</h2>
+  <p>
+    I am A^3 (as my first name, middle name and surname start with the letter A), but actually speaking my name is Arwa. I am a student at University of central Florida pursuing a Bachelor's Degree in Computer Science with a minor in Mathematics (go maths!!!).<br> 
+  </p>
 </div>
