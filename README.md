@@ -14,3 +14,8 @@
     I am A^3 (as my first name, middle name and surname start with the letter A), but actually speaking my name is Arwa. I am a student at University of central Florida pursuing a Bachelor's Degree in Computer Science with a minor in Mathematics (go maths!!!).<br> 
   </p>
 </div>
+<div align="center">
+    <a href="https://www.linkedin.com/in/arwa-a-cubed/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+</div>
